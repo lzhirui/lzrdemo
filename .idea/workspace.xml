@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47e3a6f5-795e-40a5-ad30-7744789b393f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/breakpoint_renewal/api/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/breakpoint_renewal/css/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/breakpoint_renewal/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,6 +24,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="1" />
+          <entry key="gitignore" value="1" />
           <entry key="html" value="1" />
           <entry key="php" value="1" />
         </counts>
@@ -34,11 +33,12 @@
         <counts>
           <entry key="CSS" value="1" />
           <entry key="HTML" value="1" />
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="gitignore" value="17" />
           <entry key="html" value="78" />
           <entry key="php" value="4" />
         </counts>
@@ -46,23 +46,32 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="78" />
-          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="PLAIN_TEXT" value="21" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/breakpoint_renewal/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="24" lean-forward="true" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+            <state relative-caret-position="802">
+              <caret line="139" column="48" lean-forward="true" selection-start-line="139" selection-start-column="48" selection-end-line="139" selection-end-column="48" />
               <folding>
                 <element signature="e#1543#1809#0" />
                 <element signature="e#1868#3482#0" />
                 <element signature="e#3648#3945#0" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret lean-forward="true" />
             </state>
           </provider>
         </entry>
@@ -92,6 +101,7 @@
       <find>upload-all-btn</find>
       <find>chunk</find>
       <find>upload/</find>
+      <find>startUpload</find>
     </findStrings>
     <replaceStrings>
       <replace>./upload/</replace>
@@ -106,6 +116,7 @@
         <option value="$PROJECT_DIR$/breakpoint_renewal/css/index.css" />
         <option value="$PROJECT_DIR$/breakpoint_renewal/api/index.php" />
         <option value="$PROJECT_DIR$/breakpoint_renewal/index.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -207,12 +218,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1545286323568</updated>
-      <workItem from="1545286325433" duration="26375000" />
+      <workItem from="1545286325433" duration="26991000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26375000" />
+    <option name="totallyTimeSpent" value="26991000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -223,7 +234,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -260,13 +271,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/breakpoint_renewal/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="24" lean-forward="true" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        <state relative-caret-position="802">
+          <caret line="139" column="48" lean-forward="true" selection-start-line="139" selection-start-column="48" selection-end-line="139" selection-end-column="48" />
           <folding>
             <element signature="e#1543#1809#0" />
             <element signature="e#1868#3482#0" />
             <element signature="e#3648#3945#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
         </state>
       </provider>
     </entry>
